@@ -6,6 +6,8 @@
 
 - **Responsibilities:** 
   - Searching for datasets with labels for prediction
-  - Building the predictive model through the following steps: EDA, Preprocessing-Transformation, Modeling & Evaluation 
+  - Providing some insights into the dataset through the EDA step
+  - Performing data cleaning and transformation; then resolving the issue of an imbalanced dataset
+  - Building various classification prediction models like Logistic Regression, XGBoost, and AdaBoost to evaluate the accuracy of the models    
 
 - **Programming :** Python
