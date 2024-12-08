@@ -13,3 +13,5 @@
   - Achieved results: The models achieved fairly accurate prediction results, ranging from 85% to 95%.
 
 - **Programming :** Python
+
+- **View The Project Presentation**: https://drive.google.com/file/d/1AzV-Wj7NSRLPZDT6jHtCeFIkPy97ZPb2/view?usp=sharing
